@@ -9,6 +9,6 @@ pipeline {
                 echo "test QA branch"            }
         }
        
-        }
+        
     }           
  }
