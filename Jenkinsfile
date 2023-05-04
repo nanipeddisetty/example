@@ -6,7 +6,7 @@ pipeline {
     stages { 
         stage('Example') {
             steps {
-                echo "test QA branch"            }
+                echo "test Prod branch"            }
         }
        
         }
